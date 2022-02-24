@@ -7,7 +7,8 @@ Here are implementations of the template classes of the
  - red-black tree
  - AVL tree
  - Splay tree
- - 2-3 tree 
+ - 2-3 tree
+
 using the template method design pattern,
 as well as implementations of the template classes of the
  - binary heap
