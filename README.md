@@ -9,8 +9,11 @@ Here are implementations of the template classes of the
  - Splay tree
  - 2-3 tree
 
-using the template method design pattern,
-as well as implementations of the template classes of the
+using the template method design pattern.
+
+## Heaps
+
+Here are implementations of the template classes of the
  - binary heap
  - binomial heap
  - fibonacci heap.
